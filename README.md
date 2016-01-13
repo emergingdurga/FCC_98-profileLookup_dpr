@@ -1,7 +1,7 @@
 #Shantanu Look here for Explanation.
 
 OBJECTIVE:
-   To lookup a json collection and look up the property passed through the input argument(if the prop is present).
+   To lookup a json collection and find and return the property value passed through the input argument(if the prop is present).
    
 Steps:
 Think your self as Mario and we are in the quest of finding our princess in a brothel. :D :D
