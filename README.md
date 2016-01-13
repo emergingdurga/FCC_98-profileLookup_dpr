@@ -1,5 +1,5 @@
 #Shantanu Look here for Explanation.
-
+#Click on 98-profileLookup.js for entire code.
 OBJECTIVE:
    To lookup a json collection and find and return the property value passed through the input argument(if the prop is present).
    
